@@ -1,6 +1,14 @@
 # IPTV-Link
 #EXTM3U
-#EXTINF:-1 tvg-id="Somoy TV" group-title="News BD",Somoy Tv
+#EXTINF:-1 tvg-id="Somoy TV" group-title="AR News",Somoy Tv
 https://tvsen6.aynaott.com/somoytv/index.m3u8
-#EXTINF:-1 tvg-id="Jamuna Tv" group-title="News BD",Jamuna Tv
+#EXTINF:-1 tvg-id="Jamuna Tv" group-title="AR News",Jamuna Tv
 https://tvsen6.aynaott.com/jamunatv/index.m3u8
+#EXTINF:-1 tvg-id="Channel 24" group-title="AR News",Channel 24
+https://tvsen6.aynaott.com/channel24/index.m3u8
+#EXTINF:-1 tvg-id="Independent Tv" group-title="AR News", Independent TV
+https://tvsen6.aynaott.com/independenttv/index.m3u8
+#EXTINF:-1 tvg-id="News 24" group-title="AR News",News 24
+https://tvsen6.aynaott.com/news24/index.m3u8
+#EXTINF:-1 tvg-id="Bijoy Tv" group-title="AR News", Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
