@@ -1,4 +1,5 @@
 # IPTV-Link
+#Made BY ARAFAT
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dLDRjQw/6773860bc5c361735624203.jpg" group-title="AR Islamic", ওয়াজ মাহফিল 
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
@@ -133,3 +134,5 @@ https://pixeldrain.com/api/file/oHAmiosQ?download
 https://pixeldrain.com/api/file/Tftu1iBV?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E04
 https://pixeldrain.com/api/file/55GLUUx1?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E05
+https://pixeldrain.com/api/file/uixp3qwQ?download
