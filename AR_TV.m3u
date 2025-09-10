@@ -103,6 +103,8 @@ https://app.hughag.store/api/b6a720edea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFBRFctH/Sony-Sports-Ten-1.png" group-title="AR AynaOTT",Sony Ten 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master_2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZGNXGtT/images-q-tbn-ANd9-Gc-QTARXPKpnrtt-CQZ8-T-b-D-wvg-GNCFml3p-Qj-G0-Plzjyu-HBv-Jmtn-HIcp-Bk5-IG-s-10.jpg" group-title="AR AynaOTT",Sony YAY!
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/4dd960d0-da32-4c23-b9aa-2d6b7e567ae1.png" group-title="AR AynaOTT", Nat Geo TV
 https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
