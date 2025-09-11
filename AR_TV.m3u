@@ -182,3 +182,69 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinema
 
 --------------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="AR SonyLiv",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="https://i.ibb.co.com/LDzGj8rV/images-q-tbn-ANd9-Gc-Rww2-Jwxa-Qw6-Ez-Ye-UIDq-JLs-2-CNu-EGK7ni-C7-Unm1-Cb-Az1-KRk2m9-CZ8q-Y-s-10.jpg" group-title="AR SonyLiv",Sony SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.ibb.co.com/tpqLcQFH/images-q-tbn-ANd9-Gc-QEw9-QHhv-SG7x-ZHa-CV1-W7p-Iez-YNSJWIKQJ4-QAFp-ZNPgst-BOhjb-seoc-s-10.jpg" group-title="AR SonyLiv",Sony Marathii
+https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sony_Pal_logo_new.jpeg" group-title="AR SonyLiv",Sony Pal
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.ibb.co.com/rKkhNr8B/images-q-tbn-ANd9-Gc-STGWg-j9xc-Tp8-BNR05x-Q6al-Rdkj-MKod-MYn-Xs4tc09-Bwbvc-P3d8dis3-MM-s-10.jpg" group-title="AR SonyLiv",Sony Aath
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-language="Hindi" tvg-logo="https://i.ibb.co.com/XZGNXGtT/images-q-tbn-ANd9-Gc-QTARXPKpnrtt-CQZ8-T-b-D-wvg-GNCFml3p-Qj-G0-Plzjyu-HBv-Jmtn-HIcp-Bk5-IG-s-10.jpg" group-title="AR SonyLiv",Sony Yay
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://i.ibb.co.com/k6SnYmwR/images-q-tbn-ANd9-Gc-QAh-Ws-mv-Tjp-PPKjl9qql606c-1wl4-SAz-S7w-XIHY9-G5-Hf-UTcpw-T9gy5-Q5b-XDnpo-ISfh.webp" group-title="AR SonyLiv",Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-logo="https://i.ibb.co.com/k6SnYmwR/images-q-tbn-ANd9-Gc-QAh-Ws-mv-Tjp-PPKjl9qql606c-1wl4-SAz-S7w-XIHY9-G5-Hf-UTcpw-T9gy5-Q5b-XDnpo-ISfh.webp" group-title="AR SonyLiv",Sony MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-language="Hindi" tvg-logo="https://i.ibb.co.com/LzD1JTh0/Sony-max-2-in.png" group-title="AR SonyLiv" group-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png", Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-language="Hindi" tvg-logo="https://i.ibb.co.com/8nvv8DZN/images-q-tbn-ANd9-Gc-QFhwl-Ej-HK1-PNYCqatlgr-En-Y-wxw-UPc-A2k-MNYh7-O8a0-VVNIy-Mtz-ZB3pz-DE-s-10.jpg" group-title="AR SonyLiv" group-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png", Sony WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/250px-Sony_Pix_logo.svg.png" group-title="AR SonyLiv",Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://i.ibb.co.com/dspQb01Q/images-q-tbn-ANd9-Gc-R8v-IVl-U68h-Zu-J04x-QQRTFRla1-RAv-sq-Xe9w-A-s.jpg" group-title="AR SonyLiv",Sony BBC Earth HD
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="AR SonyLiv" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 1
+https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="AR SonyLiv" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 2
+https://tataplay.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="AR SonyLiv" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 3
+https://tataplay.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="AR SonyLiv" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 4
+https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="AR SonyLiv" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Sports Ten 5
+https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="AR SonyLiv",Sony Sports Ten 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="AR SonyLiv",Sony Sports Ten 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="AR SonyLiv",Sony Sports Ten 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="AR SonyLiv" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTzjp5hQzAllLUx0A_fJ5ThFLGdt-X7rIPKzw25coi6AUVjo_KyvDQrsb&s=10", Sony Sports Ten 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="AR SonyLiv", Sony Sports Ten 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
