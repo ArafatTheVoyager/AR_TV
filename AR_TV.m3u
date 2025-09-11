@@ -212,7 +212,7 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-language="Hindi" tvg-logo="https://i.ibb.co.com/8nvv8DZN/images-q-tbn-ANd9-Gc-QFhwl-Ej-HK1-PNYCqatlgr-En-Y-wxw-UPc-A2k-MNYh7-O8a0-VVNIy-Mtz-ZB3pz-DE-s-10.jpg" group-title="AR SonyLiv" group-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png", Sony WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Sony_Pix_logo.svg/250px-Sony_Pix_logo.svg.png" group-title="AR SonyLiv",Sony PIX HD
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.ibb.co.com/LsMhxn1/250px-Sony-Pix-logo-svg.png" group-title="AR SonyLiv",Sony PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://i.ibb.co.com/dspQb01Q/images-q-tbn-ANd9-Gc-R8v-IVl-U68h-Zu-J04x-QQRTFRla1-RAv-sq-Xe9w-A-s.jpg" group-title="AR SonyLiv",Sony BBC Earth HD
