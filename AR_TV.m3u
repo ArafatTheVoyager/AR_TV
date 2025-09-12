@@ -277,8 +277,3 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="AR Entertainment", Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
-#Try
-#EXTINF:-1 tvg-id="SONY YAY VIP" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Entertainment",SONY YAY VIP
-#EXTHTTP
-Cookie: Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1757859573:KeyName=prod_linear:Signature=_GLpDSDZFzBeRC-cv6fFJh3DZ3-NvCAmCCCn-qh391bxsPuZe_obSn75cPBKnIBZW4meWe21zShZ-TRiTgu0Dw
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
