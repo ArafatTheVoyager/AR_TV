@@ -1,11 +1,12 @@
 # IPTV-Link
 # Made BY ARAFAT
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dLDRjQw/6773860bc5c361735624203.jpg" group-title="AR Islamic", ওয়াজ মাহফিল 
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
 --------------------------------------------------------------------
-
+#AynaOTT
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/54163718-53c4-4ac6-8d86-ceca29d69554.png" group-title="AR AynaOTT", BTV National
 https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8
 
@@ -136,7 +137,7 @@ https://tvsen6.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/GoldminesMovies/tracks-v1a1/mono.ts.m3u8
 
 ---------------------------------------------------------------------------
-
+#Movies
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gbkYzRWg/Advocate-Achinta-Aich-2025-S02-Bengali-Hoichoi-WEB-DL-H264-AAC-1080p-720p-480p-ESu-203x300.jpg" group-title="AR Movie",Advocate Achinta Aich (2025) S02
 https://pixeldrain.dev/api/file/fmNigNbZ?download
 
@@ -147,7 +148,7 @@ https://pixeldrain.dev/api/file/edJ36BDc?download
 https://pixeldrain.dev/api/file/edJ36BDc?download
 
 ------------------------------------------------------------------------------------
-
+#Breakig Bad
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E01
 https://pixeldrain.com/api/file/Cdhv3S8g?download
 
@@ -170,7 +171,7 @@ https://pixeldrain.com/api/file/9xUPx77f?download
 https://pixeldrain.com/api/file/S14EwdS5?download
 
 ------------------------------------------------------------------------------------------------------
-
+#MCU
 #EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU",Iron Man (2008)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/Iron%20Man%20%282008%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
@@ -188,7 +189,7 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinema
 
 
 --------------------------------------------------------------------
-
+#Sony Liv
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://i.ibb.co.com/pjwKSd5X/images-q-tbn-ANd9-Gc-Rb5f-Vosn-9-Xu-Urgti-MWc4-EA6-Gh9-Atc-Zk-PWe-Q-s.jpg" group-title="AR SonyLiv",SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
@@ -256,6 +257,11 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#AR Sports 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CdyJrwd/bein-sports-1-logo-png-seeklogo-481583.png" group-title="AR Sports", BeIN Sports 1
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZudleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+#AR Kids 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cSVYRZQF/hd-nick-nickelodeon-logo-png-7017516947093919ayhrrgsyz.png" group-title="AR Kids", Nick Bangla
+https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
