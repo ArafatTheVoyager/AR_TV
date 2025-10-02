@@ -1,4 +1,3 @@
-# IPTV-Link
 # Made BY ARAFAT
 #EXTM3U
 
@@ -74,16 +73,14 @@ http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSw
 #http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KxCT1jTd/images-q-tbn-ANd9-Gc-Q3f-Bpa-WLu78lqc9z3-Gvb-Zx-KB6-JKB6m7k-Ar-Znp0-Gx9un-A-s-10.jpg" group-title="AR Sports", Toffee
-http://103.73.107.122:3255/TSportsHD/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="AR Sports", T sports HD
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 #AR Kids 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cSVYRZQF/hd-nick-nickelodeon-logo-png-7017516947093919ayhrrgsyz.png" group-title="AR Kids", Nick Bangla
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23B6nk0t/images-q-tbn-ANd9-Gc-Qw-MMw-Yq-Cnov0-YK8-R-ezf-YMYL-ip-P0ii6z4r-Rk8g-H2qg5-Yz-L8thidjg-EJa-M-s-10.jpg" group-title="AR Kids",24/7 Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 #Entertainment 
