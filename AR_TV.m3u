@@ -147,23 +147,21 @@ https://pixeldrain.dev/api/file/UDqyWwsr?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CdyJrwd/bein-sports-1-logo-png-seeklogo-481583.png" group-title="AR Sports", BeIN Sports 1
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZudleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
 
-#EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="AR Sports",Star Sports Select 1
+EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="AR Sports",Star Sports Select 1
 #http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="AR Sports", T sports HD
+EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="AR Sports", T sports HD
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="AR Sports",Star Sports Select 1
-#http://xtv.ooo:8080/live/03353290992/03353290992/167578.ts
-#https://tvsen6.aynaott.com/spsel1/index.m3u8
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
 
 
 
 
 #AR Kids 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cSVYRZQF/hd-nick-nickelodeon-logo-png-7017516947093919ayhrrgsyz.png" group-title="AR Kids", Nick Bangla
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/cSVYRZQF/hd-nick-nickelodeon-logo-png-7017516947093919ayhrrgsyz.png" group-title="AR Kids", Nick Bangla
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="AR Kids", Sony YAY!
@@ -178,10 +176,10 @@ https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
 
 
 #Entertainment 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="AR Entertainment", Jalsha Movies HD
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="AR Entertainment", Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
-#EXTINF:-1 group-title="AR Entertainment" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+EXTINF:-1 group-title="AR Entertainment" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 
 #EXTINF:-1 group-title="AR Entertainment" tvg-logo="http://stvlive.net/assets/images/Enter%20Ten%20Bangla1731466848.png", Enter 10 Bangla 
