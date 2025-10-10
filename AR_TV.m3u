@@ -4,15 +4,18 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4RzvZBQk/IMG-20251005-090205.jpg", AR TV
 https://i.ibb.co.com/4RzvZBQk/IMG-20251005-090205.jpg
 
---------------------------------------------------------------------
-#Isamic 
+
+
+#TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HMBBbZD/images-q-tbn-ANd9-Gc-Q3z-H0-Lt-OT-Fp9-DCCRw-YZul-NOTp-KGpu6ylib77qj-Rphl7jco-Ck-Jx-Px2t-E-s-10.jpg" group-title="AR Islamic", Peace Tv Bangla 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="AR TV",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="AR TV",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 
-
----------------------------------------------------------------------------
 #Movies
 
 #EXTINF:-1 tvg-logo="https://cinedoze.tv/wp-content/uploads/2025/07/ombsmhYUqR4qqOLOxAyr5V8hbyv-200x300.jpg" group-title="AR Movie",Superman (2025)
@@ -51,7 +54,10 @@ https://pixeldrain.dev/api/file/W3wmrGiJ?download
 #EXTINF:-1 tvg-logo="https://cinedoze.tv/wp-content/uploads/2025/09/13th-Some-Lessons-Arent-Taught-In-Classrooms-2025-S01-Hindi-SLIV-WEB-DL-H264-AAC-4K-1080p-720p-480p-ESub-219x300.jpg" group-title="AR Movie",13th Some Lessons Arent Taught In Classrooms (2025)
 https://pixeldrain.dev/api/file/YC4zsTVk?download
 
-------------------------------------------------------------------------------------
+
+
+
+
 #Breakig Bad
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E01
 https://pixeldrain.com/api/file/Cdhv3S8g?download
@@ -74,7 +80,10 @@ https://pixeldrain.com/api/file/9xUPx77f?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8L4hdxZS/images.jpg" group-title="AR Breaking Bad",S01 E07
 https://pixeldrain.com/api/file/S14EwdS5?download
 
-------------------------------------------------------------------------------------------------------
+
+
+
+
 #MCU
 #EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU",Iron Man (2008)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/Iron%20Man%20%282008%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
@@ -92,7 +101,11 @@ http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinema
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/05%20-%20Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20%5BDual%20Audio%5D/Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
---------------------------------------------------------------------
+
+
+
+
+
 #One Punch Man 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsw4PRvG/images-q-tbn-ANd9-Gc-T4-Tt-E3-G99-LNThx-YDWXGigp-Gg-PQJWsk-Pik-P4eegq-G-M7lb0xeir-WGq-Vhs-Fxjs06ax-Z.webp" group-title="AR One Punch Man",S1 EP01
 https://pixeldrain.dev/api/file/aEsCPVNB?download
@@ -126,7 +139,10 @@ https://pixeldrain.dev/api/file/UDqyWwsr?download
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 #AR Sports 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CdyJrwd/bein-sports-1-logo-png-seeklogo-481583.png" group-title="AR Sports", BeIN Sports 1
 http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZudleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
@@ -142,7 +158,10 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #http://xtv.ooo:8080/live/03353290992/03353290992/167578.ts
 #https://tvsen6.aynaott.com/spsel1/index.m3u8
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 #AR Kids 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cSVYRZQF/hd-nick-nickelodeon-logo-png-7017516947093919ayhrrgsyz.png" group-title="AR Kids", Nick Bangla
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
@@ -154,7 +173,10 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/s
 https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
 
 
------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
 #Entertainment 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="AR Entertainment", Jalsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
