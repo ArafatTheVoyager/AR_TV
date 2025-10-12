@@ -6,12 +6,22 @@ https://i.ibb.co.com/4RzvZBQk/IMG-20251005-090205.jpg
 
 
 
-#TV
 
 
+#Islamic
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HMBBbZD/images-q-tbn-ANd9-Gc-Q3z-H0-Lt-OT-Fp9-DCCRw-YZul-NOTp-KGpu6ylib77qj-Rphl7jco-Ck-Jx-Px2t-E-s-10.jpg" group-title="AR Islamic", Peace Tv Bangla 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="AR Islamic",Saudi Quran
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="AR Islamic",Madina live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
+
+
+
+#TV
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="AR TV",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="AR TV",SOMOY TV
