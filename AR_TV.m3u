@@ -21,6 +21,18 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 
 
+
+
+
+
+#FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ldt0Jq0h/250px-Bangladesh-betar-logo.jpg" group-title="AR Radio",Betar 88.8
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+
+
+
+
+
 #TV
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="AR TV",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
