@@ -50,7 +50,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="AR TV",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",DesheBideshe
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="AR TV",DesheBideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="AR TV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -146,19 +146,19 @@ https://pixeldrain.com/api/file/S14EwdS5?download
 
 
 #MCU
-#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU",Iron Man (2008)
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Iron Man (2008)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/01%20-%20Iron%20Man%20%282008%29%201080p%20%5BDual%20Audio%5D/Iron%20Man%20%282008%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
-#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/02%20-%20The%20Incredible%20Hulk%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU",The Incredible Hulk (2008)
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/02%20-%20The%20Incredible%20Hulk%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",The Incredible Hulk (2008)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/02%20-%20The%20Incredible%20Hulk%20%282008%29%201080p%20%5BDual%20Audio%5D/The%20Incredible%20Hulk%20%282008%29%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-Ranvijay.mkv
 
-#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/03%20-%20Iron%20Man%202%20%282010%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU",Iron Man 2 (2010)
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/03%20-%20Iron%20Man%202%20%282010%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Iron Man 2 (2010)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/03%20-%20Iron%20Man%202%20%282010%29%201080p%20%5BDual%20Audio%5D/Iron%20Man%202%20%282010%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
-#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/04%20-%20Thor%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU",Thor (2011)
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/04%20-%20Thor%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)",Thor (2011)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/04%20-%20Thor%20%282011%29%201080p%20%5BDual%20Audio%5D/Thor%20%282011%29%201080p%20BluRay%20DTS%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
-#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/05%20-%20Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU", Captain America: The First Avenger (2011)
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/05%20-%20Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="AR MCU (FTP)", Captain America: The First Avenger (2011)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/Marvel%20Cinematic%20Universe-MCU%20Collection%201080p%20%5BDual%20Audio%5D/05%20-%20Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20%5BDual%20Audio%5D/Captain%20America-The%20First%20Avenger%20%282011%29%201080p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
