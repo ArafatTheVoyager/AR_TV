@@ -310,7 +310,17 @@ http://116.204.149.16/t_sports/index.m3u8
 EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="AR Sports",Star Sports Select 1
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
 
+#EXTINF:-1 group-title="AR Sports" tvg-logo="https://i.postimg.cc/76DdVhNJ/TNT-Sports-1.jpg",TNT Sports 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
+#EXTINF:-1 group-title="AR Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+
+#EXTINF:-1 group-title="AR Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 3
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
+
+#EXTINF:-1 group-title="AR Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TNT Sports 4
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 
 
 #AR Kids 
