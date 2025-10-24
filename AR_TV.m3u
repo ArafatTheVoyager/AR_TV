@@ -34,6 +34,14 @@ http://as3.digitalsynapsebd.com:8263/;stream.mp3
 
 
 #TV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1WLkqCr/Gopal-Bhar.jpg" group-title="AR TV",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7pGtkJb/bantul.jpg" group-title="AR TV",Batul The Great
+https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="AR TV",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
@@ -45,9 +53,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="AR TV",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1WLkqCr/Gopal-Bhar.jpg" group-title="AR TV",Gopal Bhar
-https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 
 
