@@ -45,7 +45,7 @@ https://tplay.live/playlist/kids/ninja-hattori/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hrsjZ1v/doraemon.jpg" group-title="AR TV",Doraemon
 https://tplay.live/playlist/kids/doraemon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg" group-title="AR TV",Name
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg" group-title="AR TV",Oggy And The Cockroach
 https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
 
 
@@ -123,6 +123,9 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/prvYNCmC/Bhadrakaali-2025.jpg" group-title="AR Movie",Bhadrakaali (2025)
+https://pixeldrain.dev/api/file/v8YnXXez?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGqHGPgk/Grihapravesh-2025.jpg" group-title="AR Movie",Grihapravesh (2025)
 https://pixeldrain.dev/api/file/LH9Szd3B?download
