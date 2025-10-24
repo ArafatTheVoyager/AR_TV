@@ -35,6 +35,20 @@ http://as3.digitalsynapsebd.com:8263/;stream.mp3
 
 #TV
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgxQd9gz/motu-patlu.jpg" group-title="AR TV",Motu Patlu
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kz0h2LzX/ninja-hattori.jpg" group-title="AR TV",Ninja Hattori
+https://tplay.live/playlist/kids/ninja-hattori/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hrsjZ1v/doraemon.jpg" group-title="AR TV",Doraemon
+https://tplay.live/playlist/kids/doraemon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg" group-title="AR TV",Name
+https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1WLkqCr/Gopal-Bhar.jpg" group-title="AR TV",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
