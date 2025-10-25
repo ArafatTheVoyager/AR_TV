@@ -78,6 +78,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="AR TV",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rKkhNr8B/images-q-tbn-ANd9-Gc-STGWg-j9xc-Tp8-BNR05x-Q6al-Rdkj-MKod-MYn-Xs4tc09-Bwbvc-P3d8dis3-MM-s-10.jpg" group-title="AR TV",Sony Aath
+https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="AR TV",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
