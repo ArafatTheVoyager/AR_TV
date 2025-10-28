@@ -127,7 +127,10 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6cnsx6GQ/Gladiator.jpg" group-title="AR Movie", Gladiator (2000)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4rGDQg1/Gladiator-2.jpg" group-title="AR Movie", Gladiator II (2024) FTP
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282024%29/Gladiator%20II%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/Gladiator%20II%20%282024%29%20720p%20AMZN-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6cnsx6GQ/Gladiator.jpg" group-title="AR Movie", Gladiator (2000) FTP
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282000%29/Gladiator%20%282000%29%20720p%20%5BDual%20Audio%5D/Gladiator%20%282000%29%20EXTENDED%20REM%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xKHcd1GQ/Detective-2020.jpg" group-title="AR Movie",Detective (2020)
