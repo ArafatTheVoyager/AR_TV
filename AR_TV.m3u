@@ -53,6 +53,11 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7pGtkJb/bantul.jpg" group-title="AR TV",Batul The Great
 https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz4WS5nT/cid-bengali.jpg" group-title="AR TV",CID BANGLA 24/7
+https://tplay.live/playlist/mix/cid-bengali.index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg" group-title="AR TV",NATOK 24/7
+https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="AR TV",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
