@@ -104,6 +104,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5RKZZ/images-q-tbn-ANd9-Gc-T6g1d-TEVO-q-N1e-Lg-T8l-G-z-IRHSFp-Sjtb-VQGcvd-GPz-Fe-Ffk-Zf-Y4-RVj-Bcvk-s-10.jpg" group-title="AR TV",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR Movie",Colors Bangla
+http://87.255.35.150:18236
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRcs9bwh/Rajdhani-tv.jpg" group-title="AR TV",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
