@@ -113,10 +113,10 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="AR TV",DesheBideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 group-title="AR TV" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+#EXTINF:-1 group-title="AR TV" tvg-logo="https://i.ibb.co.com/r2L1bmdK/Star.png",Star Jalsha HD
 http://87.255.35.150:18237
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pv6qrVdr/Zee-Bangla.png" group-title="AR TV",Zee Bangla
-https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
+http://87.255.35.150:18238
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5WXWV32r/images-q-tbn-ANd9-Gc-TPkbkvhm-BEFAYj-Tu2-YDl-Vtlz-NAn-PQ1-MO0m-Crzh-Zj-GW81-Xsokqk3-Je-Aw-Wo-s-10.jpg" group-title="AR TV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
