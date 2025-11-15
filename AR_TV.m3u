@@ -534,48 +534,34 @@ https://pixeldrain.dev/api/file/UDqyWwsr?download
 
 
 
-
-
-
-
-
-#AR Sports 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CdyJrwd/bein-sports-1-logo-png-seeklogo-481583.png" group-title="AR Sports", BeIN Sports 1
-http://het119a.4rouwanda-shop.store/live/918454578001/index.m3u8?fbclid=PAQ0xDSwMMZudleHRuA2FlbQIxMQABp8GyT-z9PY4kXrrfonICd7iUOg9Y7K8z5tUOT4Qso7l7Fk5doN8ayuj0TqsP_aem_cPVzXdQaQA8LNLSXcq6AzA
-
-EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="AR Sports",Star Sports Select 1
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="AR Sports", T sports HD
-http://116.204.149.16/t_sports/index.m3u8
-
-EXTINF:-135 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="AR Sports",Star Sports Select 1
-http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RtzxfJg/images-q-tbn-ANd9-Gc-Sc4h-YIHau3kh-ROI1z-Vh5-Ox-DB8-Xq2v-KG0-4-YA-usqp-CAU.png" group-title="AR Sports", Willow HD
-https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-
-#AR Kids 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/cSVYRZQF/hd-nick-nickelodeon-logo-png-7017516947093919ayhrrgsyz.png" group-title="AR Kids", Nick Bangla
-https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
-
-EXTINF:-1 tvg-id="Sony Yay" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="AR Kids", Sony YAY!
-https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000001971
-
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/rKkhNr8B/images-q-tbn-ANd9-Gc-STGWg-j9xc-Tp8-BNR05x-Q6al-Rdkj-MKod-MYn-Xs4tc09-Bwbvc-P3d8dis3-MM-s-10.jpgg" group-title="AR Kids", Sony Aath
-https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
-
-
-
-
-
-
-#Entertainment 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="AR Entertainment", Jalsha Movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
-
-EXTINF:-1 group-title="AR Entertainment" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
-https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
-
-EXTINF:-1 group-title="AR Entertainment" tvg-logo="http://stvlive.net/assets/images/Enter%20Ten%20Bangla1731466848.png", Enter 10 Bangla 
-http://stvlive.net:8080/entertenbn/index.m3u8
+#Naruto
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP01
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E001%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP02
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E002%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP03
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E003%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP04
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E004%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP05
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E005%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP06
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E006%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP07
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E007%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP08
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E008%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP09
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E009%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP10
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E010%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP11
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E011%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP12
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E012%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP13
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E013%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP14
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E014%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pBsX0Qn/Naruto-S01.jpg" group-title="AR Naruto FTP",S01 EP15
+http://172.16.50.9/DHAKA-FLIX-9/Anime%20%26%20Cartoon%20TV%20Series/Anime-TV%20Series%20%E2%99%A6%20%20N%20%20%E2%80%94%20%20S/Naruto%20%28TV%20Cartoon%202002%E2%80%932007%29%201080p%20%5BMulti%20Audio%5D/Season%201%20%28001-057%29/%5BToonworld4all%5D%20Naruto%20E015%201080p%20x265%2010bit%20BluRay%20Multi%20Audio%20DD2.0%20Uncut%20ESub.mkv
