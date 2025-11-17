@@ -127,6 +127,8 @@ http://87.255.35.150:18220
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kggty0Dw/images-q-tbn-ANd9-Gc-RE44-Pv-JTp-l-SJ-xu98-Npk-QVQXs-Zusb1guov-N0-Q9r9-Uv-UU4-Kta8ov-M8-Yly-s-10.png" group-title="AR TV",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HDfdzqrV/RM-Play.png" group-title="AR TV",RM Play
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 
