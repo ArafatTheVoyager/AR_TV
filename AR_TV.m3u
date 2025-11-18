@@ -145,6 +145,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wNTv2Xd9/Mirai.jpg" group-title="AR Movie",Mirai (2025)
+https://pixeldrain.dev/api/file/DDC2FQ6P
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgMS3Qbd/Tomar-Jonno-Mon-2025.jpg" group-title="AR Movie",Tomar Jonno Mon (2025)
 https://pixeldrain.dev/api/file/FCh75GjY?download
 
