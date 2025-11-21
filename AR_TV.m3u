@@ -150,7 +150,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d4H22rnD/Relay-2024.jpg" group-title="AR Movie",Relay (2024)
+https://pixeldrain.dev/api/file/R2kvYAtx
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zgZfcyC/Bison-2025.jpg" group-title="AR Movie",Bison Kaalamaadan (2025)
 https://pixeldrain.dev/api/file/HQWKcE9Z
