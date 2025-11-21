@@ -150,6 +150,11 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zgZfcyC/Bison-2025.jpg" group-title="AR Movie",Bison Kaalamaadan (2025)
+https://pixeldrain.dev/api/file/HQWKcE9Z
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViMGI2NmYtNmIyYS00MDA1LTg2MTgtMjY2ODJhYTllNWRhXkEyXkFqcGc@._V1_.jpg" group-title="AR Movie",The Bengal Files (2025)
 https://pixeldrain.dev/api/file/bC665TKz
 
