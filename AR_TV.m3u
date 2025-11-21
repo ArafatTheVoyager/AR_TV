@@ -109,10 +109,10 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="AR TV",Tsports 
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73" group-title="AR TV",PTV Sports
-https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1763569270&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d&token=559c4e4084a85d95d07d785805a04e59
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e8f773bfe8eb0881969d7b7a86e8db73" group-title="AR TV",TNT Sports 1 HD
+https://l.lioncdn.net/TNT-Sports-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="AR TV",A Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkpBrQvM/TNT.png" group-title="AR TV",A Sports HD
 https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR Movie",Colors Bangla
