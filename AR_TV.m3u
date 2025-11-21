@@ -152,7 +152,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rRws5Mw2/Manobjomin-2023.jpg" group-title="AR Movie",Manobjomin (2023)
+https://pixeldrain.dev/api/file/isLsehUX
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wNTv2Xd9/Mirai.jpg" group-title="AR Movie",Mirai (2025)
 https://pixeldrain.dev/api/file/DDC2FQ6P
