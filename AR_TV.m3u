@@ -111,7 +111,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="AR TV",Tsports 
-http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
+https://live.matribhumitv.com/matribhumi-sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkpBrQvM/TNT.png" group-title="AR TV",TNT Sports 1 HD
 https://l.lioncdn.net/TNT-Sports-1/index.m3u8
@@ -133,6 +133,10 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 #EXTINF:-1 group-title="AR TV" tvg-logo="https://i.ibb.co.com/r2L1bmdK/Star.png",Star Jalsha HD
 http://87.255.35.150:18237
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xr7XKL3P/Star-Movies.jpg" group-title="AR TV",Star Jalsha Movies
+https://shorturl.at/bUZHV
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pv6qrVdr/Zee-Bangla.png" group-title="AR TV",Zee Bangla
 http://87.255.35.150:18238
 
