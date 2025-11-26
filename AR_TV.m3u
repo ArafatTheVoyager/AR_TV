@@ -135,7 +135,7 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 http://87.255.35.150:18237
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xr7XKL3P/Star-Movies.jpg" group-title="AR TV",Star Jalsha Movies
-https://shorturl.at/bUZHV
+http://103.166.152.22:8080/roarzone/bk/31/index.m3u8?token=35d9d1f7c7764292a4590b3b960fd3025cd4e7c5-35cb4b7acd13bb777b3c693ddd54c4f1-1764164714-1764153914
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="AR TV",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
