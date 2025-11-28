@@ -113,8 +113,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5RKZZ/images-q-tbn-ANd9-Gc-T6g1d-TEVO-q-N1e-Lg-T8l-G-z-IRHSFp-Sjtb-VQGcvd-GPz-Fe-Ffk-Zf-Y4-RVj-Bcvk-s-10.jpg" group-title="AR TV",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="AR TV",Tsports 
-http://103.166.152.22:8080/roarzone/edge2/tsports/index.m3u8?token=5df123ad485bb8cc639132246bb97fef00b7e0bf-90d035389b044342d12d05e3ecd2cd88-1764164703-1764153903
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJ1n453w/PIX.jpg" group-title="AR TV",Sony Pix HD
+http://87.255.35.150:18495
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YzKWNb6/images-q-tbn-ANd9-Gc-SL1-M4-VFO04ea2-Hn2-PPs-Vy-JAl-PQSLr-M9-UTx-Iku-Eehi-Wl83ar-Kz3t9-h-Tf-M-s-10.jpg" group-title="AR TV",Sony Sports Ten 1 HD
 http://87.255.35.150:18926
