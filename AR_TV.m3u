@@ -113,8 +113,11 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="AR TV",Tsports 
 http://103.166.152.22:8080/roarzone/edge2/tsports/index.m3u8?token=5df123ad485bb8cc639132246bb97fef00b7e0bf-90d035389b044342d12d05e3ecd2cd88-1764164703-1764153903
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YzKWNb6/images-q-tbn-ANd9-Gc-SL1-M4-VFO04ea2-Hn2-PPs-Vy-JAl-PQSLr-M9-UTx-Iku-Eehi-Wl83ar-Kz3t9-h-Tf-M-s-10.jpg" group-title="AR TV",Sony Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YzKWNb6/images-q-tbn-ANd9-Gc-SL1-M4-VFO04ea2-Hn2-PPs-Vy-JAl-PQSLr-M9-UTx-Iku-Eehi-Wl83ar-Kz3t9-h-Tf-M-s-10.jpg" group-title="AR TV",Sony Sports Ten 1 HD
 http://87.255.35.150:18926
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpGqxY0w/Ten-2.jpg" group-title="AR TV",Sony Sports Ten 2 HD
+http://87.255.35.150:18928
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMczwY8W/Star-sports-select-1-hd.webp" group-title="AR TV",Star Sports Select 1 HD
 http://87.255.35.150:18893
