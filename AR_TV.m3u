@@ -139,6 +139,10 @@ http://87.255.35.150:18818
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMczwY8W/Star-sports-select-1-hd.webp" group-title="AR TV",Star Sports Select 1 HD
 http://87.255.35.150:18893
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWmYrwZs/A-Sports-HD.png" group-title="AR Movie",A Sports HD
+http://66.102.120.18:8000/play/a032/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR TV",Colors Bangla
 http://87.255.35.150:18236
 
