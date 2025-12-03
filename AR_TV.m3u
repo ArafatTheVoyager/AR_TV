@@ -138,6 +138,9 @@ http://87.255.35.150:18848
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="AR Movie",Sony Sports Ten 5 HD
 http://87.255.35.150:18818
 
+#EXTINF:-1 tvg-logo="image.jpg" group-title="AR TV",Star Sports 1 HD
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMczwY8W/Star-sports-select-1-hd.webp" group-title="AR TV",Star Sports Select 1 HD
 http://87.255.35.150:18893
 
