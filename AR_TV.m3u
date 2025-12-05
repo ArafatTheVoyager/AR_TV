@@ -102,7 +102,7 @@ http://66.102.120.18:8000/play/a00s
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fzLBxtD5/Discovery-Kids.png" group-title="AR Movie", Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fzLBxtD5/Discovery-Kids.png" group-title="AR TV", Discovery Kids HD
 http://87.255.35.150:18902
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="AR TV",ATN Bangla
@@ -141,7 +141,7 @@ http://87.255.35.150:18928
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YBtXR5fz/Ten-3.webp" group-title="AR TV",Sony Sports Ten 3 HD
 http://87.255.35.150:18848
 
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="AR Movie",Sony Sports Ten 5 HD
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="AR TV",Sony Sports Ten 5 HD
 http://87.255.35.150:18818
 
 #EXTINF:-1 tvg-logo="image.jpg" group-title="AR TV",Star Sports 1 HD
@@ -192,6 +192,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Psk4P3QC/images-q-tbn-ANd9-Gc-Tz-CTvr-Hosj-CL3n-Ea-Gl-VBSzz5by-Q4-JM1-Y-Ejv-Ev-MHJunclr-Jn4k-VPg4p-Uc-s-10.png" group-title="AR TV",FIFA +
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Myqg2HZQ/Laliga.jpg" group-title="AR TV",Sky Sports Laliga
+http://190.14.10.19:16000/play/a09u/index.m3u8
 
 
 #Movies
