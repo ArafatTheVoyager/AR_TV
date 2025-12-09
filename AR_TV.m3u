@@ -164,6 +164,8 @@ https://livetv-fa.tubi.video/fubo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AR TV",Tsports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTmrB8YQ/TNT.jpg" group-title="AR Movie",TNT Sports 1
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR TV",Colors Bangla
