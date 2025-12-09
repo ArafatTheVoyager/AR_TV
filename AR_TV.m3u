@@ -173,6 +173,9 @@ http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTmrB8YQ/TNT.jpg" group-title="AR TV", TNT Sports 3
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3935.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTmrB8YQ/TNT.jpg" group-title="AR TV",TNT Sports 4
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3936.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR TV",Colors Bangla
 http://87.255.35.150:18236
