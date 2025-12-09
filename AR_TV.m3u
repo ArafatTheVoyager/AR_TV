@@ -159,8 +159,8 @@ http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMczwY8W/Star-sports-select-1-hd.webp" group-title="AR TV",Star Sports Select 1 HD
 http://87.255.35.150:18893
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WWmYrwZs/A-Sports-HD.png" group-title="AR TV",A Sports HD
-http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vvY4fY77/images-q-tbn-ANd9-Gc-Qf0p5aq-Jdz-ASzc-Porie-R0-A7w-J05mad83-LPN4rzc2do-ACuh-DJgg3mn-VAY-s-10.jpg" group-title="AR TV",Fubo
+https://livetv-fa.tubi.video/fubo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AR TV",Tsports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
