@@ -101,6 +101,9 @@ http://103.182.170.32:8888/play/a04m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjmgstNx/Duronto-TV.png" group-title="AR TV",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YF7VM4Js/Khushboo-Bangla-logo-2016-present.webp" group-title="AR TV", Khushboo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fzLBxtD5/Discovery-Kids.png" group-title="AR TV", Discovery Kids HD
 http://87.255.35.150:18902
