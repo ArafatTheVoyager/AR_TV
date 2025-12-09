@@ -167,6 +167,9 @@ https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTmrB8YQ/TNT.jpg" group-title="AR Movie",TNT Sports 1
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTmrB8YQ/TNT.jpg" group-title="AR Movie",TNT Sports 2
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR TV",Colors Bangla
 http://87.255.35.150:18236
