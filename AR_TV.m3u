@@ -156,7 +156,7 @@ http://87.255.35.150:18893
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWmYrwZs/A-Sports-HD.png" group-title="AR TV",A Sports HD
 http://66.102.120.18:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DHP3QHbk/T-Sports.png" group-title="AR TV",Tsports
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AR TV",Tsports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 
 
