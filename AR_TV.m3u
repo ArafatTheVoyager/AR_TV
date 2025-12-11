@@ -240,6 +240,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt2rvNYF/3-idiots.jpg" group-title="AR Movie", 3 Idiots (2009) FTP
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/087.%203%20Idiots%20%282009%29%201080p/3%20Idiots%20%282009%29%20Hindi%201080p%20BluRay%20HEVC%2010bit%20AAC%205.1%20ESub-PeruGuy.mkv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Kj8jjH5W/aes.jpg" group-title="AR Movie",The Prestige (2006) FTP
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282006%29/The%20Prestige%20%282006%29%20720p%20%5BDual%20Audio%5D/The%20Prestige%20%282006%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
 
