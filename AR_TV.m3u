@@ -159,6 +159,9 @@ http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMczwY8W/Star-sports-select-1-hd.webp" group-title="AR TV",Star Sports Select 1 HD
 http://87.255.35.150:18893
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxq5YK3J/Star-Select-2.webp" group-title="AR TV",Star Sports Select 2 HD
+https://m.xigzo.store/live/api/52100.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vvY4fY77/images-q-tbn-ANd9-Gc-Qf0p5aq-Jdz-ASzc-Porie-R0-A7w-J05mad83-LPN4rzc2do-ACuh-DJgg3mn-VAY-s-10.jpg" group-title="AR TV",Fubo
 https://livetv-fa.tubi.video/fubo/master.m3u8
 
@@ -222,7 +225,7 @@ http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xWdDKYQ/images-q-tbn-ANd9-Gc-R3r84-R37m9v-POac4-Ae-Jq37-Lnj-AXn-ANp-Uv10w-s.jpg" group-title="AR TV",Sky Sports Cricket
 http://178.33.239.54:8080/503/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HThtf2FT/Sky-Sports-Football-2020-DOG.webp" group-title="AR Movie",Sky Sports Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HThtf2FT/Sky-Sports-Football-2020-DOG.webp" group-title="AR TV",Sky Sports Football
 http://178.33.239.54:8080/500/index.m3u8
 
 #Movies
