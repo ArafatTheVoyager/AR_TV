@@ -246,7 +246,8 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ynyrKJ8n/vq-Bmy-Aj0-Xm9-Ln-S1xe1-MSl-MAJy-Hq-200x300.jpg" group-title="AR Movie",F1 The Movie (2025)
+https://pixeldrain.dev/api/file/o6RR32fh?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HpCpygDF/Karma-Korma-2025-S01-Bengali-Amazon-WEB-DL-H264-AAC-1080p-720p-480p-ESu.webp" group-title="AR Movie",Karma Korma (2025)
 https://pixeldrain.dev/api/file/uJNwPMW5?download
