@@ -156,6 +156,9 @@ http://87.255.35.150:18818
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WN6gs5jG/1200px-Star-Sports-1-HD.png" group-title="AR TV",Star Sports 1 HD
 https://m.xigzo.store/live/api/52094.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTC2T7jP/Star-Sports-2.jpg" group-title="AR TV",Star Sports 2 HD
+http://87.255.35.150:18828/
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMczwY8W/Star-sports-select-1-hd.webp" group-title="AR TV",Star Sports Select 1 HD
 http://87.255.35.150:18893
 
