@@ -243,6 +243,10 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PnrsDDJ/Parnashavarir-Shaap-2023.webp" group-title="AR Movie",Parnashavarir Shaap (2023) S01
+https://pixeldrain.dev/api/file/XHLTAH4c?download
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGd1FY1s/Khujechi-Toke-Raat-Berate-2025-S01-Bengali-AT-WEB-DL-H264-AAC-1080p-720p-480p-ES-226x300.webp" group-title="AR Movie",Khujechi Toke Raat Berate (2025) S01
 https://pixeldrain.dev/api/file/xwmyLQwN?download
 
