@@ -253,7 +253,8 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNNRpZnh/Raghu-Dakat-2025.webp" group-title="AR Movie",Raghu Dakat (2025) HDTC
+https://pixeldrain.dev/api/file/URx5yv5a?download
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xsVTTrp/Astey-Ladies-2019.webp" group-title="AR Movie",Astey Ladies (2019) S01
 https://pixeldrain.dev/api/file/FLdFXzgW?download
