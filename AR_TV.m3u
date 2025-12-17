@@ -251,7 +251,8 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fL1Knd9x/Evil-Nun-(2025).jpg" group-title="AR Movie",Evil Nun (2025)
+https://pixeldrain.dev/api/file/DHK2Nk8s?download
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTBHyMMs/Kamini-2019-S01.webp" group-title="AR Movie",Kamini (2019) S01
 https://pixeldrain.dev/api/file/vs4MMecJ?download
