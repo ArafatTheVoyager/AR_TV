@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSzpcZZG/Rahasya-Romancha-Series-2019.jpg" group-title="AR Movie",Rahasya Romancha Series (2019) S01
+https://pixeldrain.dev/api/file/JDEfpCbq?download
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/502yN9YC/Vidaamuyarchi-2025.webp" group-title="AR Movie",Vidaamuyarchi (2025)
 https://pixeldrain.dev/api/file/3QeLbfAj?download
 
