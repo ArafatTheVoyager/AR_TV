@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj6jtwMN/Avatar-Fire-and-Ash-2025.jpg" group-title="AR Movie",Avatar Fire and Ash (2025) HDTC
+https://pixeldrain.dev/api/file/g817wbR2?download
+
 #EXTINF:-1 tvg-logo="https://iili.io/f0ghUrX.md.jpg" group-title="AR Movie",Your Name (2016)
 https://pixeldrain.dev/api/file/VZMe33ek?download
 
