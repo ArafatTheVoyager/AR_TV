@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvfMv6Jd/Rahasya-Romancha-Series-2021-Bengali-Season-03.jpg" group-title="AR Movie",Rahasya Romancha Series (2021) S03
+https://pixeldrain.dev/api/file/4RUSAjbF?download
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7xcNJNx/Rahasya-Romancha-Series-2020-S02.jpg" group-title="AR Movie",Rahasya Romancha Series (2020) S02
 https://pixeldrain.dev/api/file/fh4gKy3P?download
 
