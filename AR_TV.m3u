@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/502yN9YC/Vidaamuyarchi-2025.webp" group-title="AR Movie",Vidaamuyarchi (2025)
+https://pixeldrain.dev/api/file/3QeLbfAj?download
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8kL9PdGj/Manga-Amibition-(2023).webp" group-title="AR Movie",Manga Amibition (2023)
 https://pixeldrain.dev/api/file/Rh4r6GfD?download
 
