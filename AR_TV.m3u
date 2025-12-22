@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbKQLxmx/Lal-Chor-(2015).jpg" group-title="AR Movie",Lal Chor (2015)
+https://pixeldrain.dev/api/file/QGg9VTMm?download
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05CPj1dj/Saba-(2024).jpg" group-title="AR Movie",Saba (2024)
 https://pixeldrain.dev/api/file/tyPbnCQT?download
 
