@@ -105,7 +105,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxpqcbXM/Nick.png" group-title="AR TV",Nick
-http://103.140.254.2:3500/live/545.m3u8
+#http://103.140.254.2:3500/live/545.m3u8
 http://66.102.120.18:8000/play/a00w
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JRD3HH42/Yay.jpg" group-title="AR TV",Sony YAY!
