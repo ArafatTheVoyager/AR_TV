@@ -117,10 +117,6 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YF7VM4Js/Khushboo-Bangla-logo-2016-present.webp" group-title="AR TV", Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fzLBxtD5/Discovery-Kids.png" group-title="AR TV", Discovery Kids HD
-http://87.255.35.150:18902
-
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="AR TV",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
@@ -142,9 +138,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJ1n453w/PIX.jpg" group-title="AR TV",Sony Pix HD
 http://66.102.120.18:8000/play/a01z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wr4FCLM8/Max.png" group-title="AR TV",Sony Max HD
-http://87.255.35.150:18851
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wr4FCLM8/Max.png" group-title="AR TV",Sony Max 
+http://110.39.27.47:8001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wNBKFP6D/Sony-MAX-2.png" group-title="AR TV",Sony Max 2
 http://103.182.170.32:8888/play/a02l
 
@@ -227,7 +222,7 @@ https://bongoflix.top/rz/stream.php?id=86ccc06d72b98d2e40d91bebe766fe96&e=.m3u8
 http://87.255.35.150:18238
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFrmG9Wx/Discovery.jpg" group-title="AR TV", Discovery
-http://87.255.35.150:18220
+http://110.39.27.47:8001/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kggty0Dw/images-q-tbn-ANd9-Gc-RE44-Pv-JTp-l-SJ-xu98-Npk-QVQXs-Zusb1guov-N0-Q9r9-Uv-UU4-Kta8ov-M8-Yly-s-10.png" group-title="AR TV",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
