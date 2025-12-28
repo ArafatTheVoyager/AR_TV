@@ -152,13 +152,13 @@ http://103.182.170.32:8888/play/a02l
 http://66.102.120.18:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpGqxY0w/Ten-2.jpg" group-title="AR TV",Sony Sports Ten 2 HD
-http://87.255.35.150:18928
+http://66.102.120.18:8000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YBtXR5fz/Ten-3.webp" group-title="AR TV",Sony Sports Ten 3 HD
-http://87.255.35.150:18848
+http://103.253.18.58:8000/play/a00b
 
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="AR TV",Sony Sports Ten 5 HD
-http://87.255.35.150:18818
+http://66.102.120.18:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WN6gs5jG/1200px-Star-Sports-1-HD.png" group-title="AR TV",Star Sports 1 HD
 https://tvsen7.aynaott.com/sspts1/index.m3u8
