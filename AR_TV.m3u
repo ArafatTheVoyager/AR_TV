@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpWMCVW4/Zootopia-2-2025.jpg" group-title="AR Movie",Zootopia 2 (2025)
+https://pixeldrain.dev/api/file/XEFBtYDp?download
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpKkDn9j/Timescape-2022.jpg" group-title="AR Movie",Timescape (2022)
 https://pixeldrain.dev/api/file/x7jsHQwD?download
 
