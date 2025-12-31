@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NGhmGG1/Dupur-Thakurpo-2017-S01.webp" group-title="AR Movie",Dupur Thakurpo (2017) S01
+https://pixeldrain.dev/api/file/C5zDb3ME?download
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFhskjST/Parbona-Ami-Chartey-Tokey-2015-Bengali-Amazon-WEB-DL-H264-AAC-1080p-720p-480p-ESu-225x300.webp" group-title="AR Movie",Parbona Ami Chartey Tokey (2015)
 https://pixeldrain.dev/api/file/XxPxEpdg?download
 
