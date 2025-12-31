@@ -251,6 +251,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dfx7GD50/Red-Butterfly-(2014).jpg" group-title="AR Movie",Red Butterfly (2014)
+https://pixeldrain.dev/api/file/X1qtkoYj?download
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fwDg28x/Predator-Badlands-2025.jpg" group-title="AR Movie",Predator: Badlands (2025)
 https://pixeldrain.dev/api/file/xhjUCzi5?download
 
