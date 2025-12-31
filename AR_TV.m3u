@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MXkWF5xc/Dupur-Thakurpo-2019-S03.jpg" group-title="AR Movie",Dupur Thakurpo (2019) S03
+https://pixeldrain.dev/api/file/wuZqkXSw?download
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SMxXBBp/Dupur-Thakurpo-2018-S02.jpg" group-title="AR Movie",Dupur Thakurpo (2018) S02
 https://pixeldrain.dev/api/file/Bk2xNtm4?download
 
