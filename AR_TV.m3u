@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6CygJzR/Ranna-Baati-2025.webp" group-title="AR Movie",Ranna Baati (2025)
+https://pixeldrain.dev/api/file/dbaZQDBX?download
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/45SdQDf/Haq.jpg" group-title="AR Movie",Haq (2025)
 https://pixeldrain.dev/api/file/uumDAcES?download
 
