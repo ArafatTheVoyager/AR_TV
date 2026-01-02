@@ -251,6 +251,11 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGtcWPM3/120-Bahadur-2025.jpg" group-title="AR Movie",120 Bahadur (2025)
+https://pixeldrain.dev/api/file/WA28caqL?download
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4R1sCWMT/Trap-House-2025.jpg" group-title="AR Movie",Trap House (2025)
 https://pixeldrain.dev/api/file/UikwyRPi?download
 
