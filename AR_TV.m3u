@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9JCrJtf/The-Great-Indian-Suicide-2023.webp" group-title="AR Movie",The Great Indian Suicide (2023)
+https://pixeldrain.dev/api/file/REcT7J4w?download
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGxGjVr7/Run-Away-2026-S01.jpg" group-title="AR Movie",Run Away (2026) S01
 https://pixeldrain.dev/api/file/XiRE9Tue?download
 
