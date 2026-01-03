@@ -251,7 +251,8 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LKT6KXm/Hellraiser-2022.jpg" group-title="AR Movie",Hellraiser (2022)
+https://pixeldrain.dev/api/file/XGHMM1QL?download
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvRXDT7d/Significant-Other-2022.jpg" group-title="AR Movie",Significant Other (2022)
 https://pixeldrain.dev/api/file/WMEJHRcL?download
