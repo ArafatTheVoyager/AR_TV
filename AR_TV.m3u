@@ -253,6 +253,9 @@ http://178.33.239.54:8080/500/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvRXDT7d/Significant-Other-2022.jpg" group-title="AR Movie",Significant Other (2022)
+https://pixeldrain.dev/api/file/WMEJHRcL?download
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvFgmk21/Eko-2025.jpg" group-title="AR Movie",Eko (2025)
 https://pixeldrain.dev/api/file/ScGmCaPZ?download
 
