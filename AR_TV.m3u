@@ -109,8 +109,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r23dPgYb/Channel-i.png" group-title="AR TV",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="AR TV",BOISHAKHI TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="AR TV",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -118,47 +116,17 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFX5RKZZ/images-q-tbn-ANd9-Gc-T6g1d-TEVO-q-N1e-Lg-T8l-G-z-IRHSFp-Sjtb-VQGcvd-GPz-Fe-Ffk-Zf-Y4-RVj-Bcvk-s-10.jpg" group-title="AR TV",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJ1n453w/PIX.jpg" group-title="AR TV",Sony Pix HD
-http://66.102.120.18:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wr4FCLM8/Max.png" group-title="AR TV",Sony Max 
 http://110.39.27.47:8001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wNBKFP6D/Sony-MAX-2.png" group-title="AR TV",Sony Max 2
 http://103.182.170.32:8888/play/a02l
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1YzKWNb6/images-q-tbn-ANd9-Gc-SL1-M4-VFO04ea2-Hn2-PPs-Vy-JAl-PQSLr-M9-UTx-Iku-Eehi-Wl83ar-Kz3t9-h-Tf-M-s-10.jpg" group-title="AR TV",Sony Sports Ten 1 HD
-http://66.102.120.18:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RpGqxY0w/Ten-2.jpg" group-title="AR TV",Sony Sports Ten 2 HD
-http://66.102.120.18:8000/play/a01y/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YBtXR5fz/Ten-3.webp" group-title="AR TV",Sony Sports Ten 3 HD
-http://103.253.18.58:8000/play/a00b
-
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/181x0-icon.png" group-title="AR TV",Sony Sports Ten 5 HD
-http://66.102.120.18:8000/play/a010/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WN6gs5jG/1200px-Star-Sports-1-HD.png" group-title="AR TV",Star Sports 1 HD
-https://tvsen7.aynaott.com/sspts1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTC2T7jP/Star-Sports-2.jpg" group-title="AR TV",Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMczwY8W/Star-sports-select-1-hd.webp" group-title="AR TV",Star Sports Select 1 HD
-http://66.102.120.18:8000/play/a06x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxq5YK3J/Star-Select-2.webp" group-title="AR TV",Star Sports Select 2 HD
-http://66.102.120.18:8000/play/a06y/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AR TV",Tsports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WWmYrwZs/A-Sports-HD.png" group-title="AR TV",ARY Sports HD
-https://tvsen6.aynaott.com/asports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vSwDLz5/PTV-Sports.png" group-title="AR TV",PTV Sports HD
-https://tvsen7.aynaott.com/wJf84zDS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR TV",Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
@@ -172,20 +140,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="AR TV",DesheBideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 group-title="AR TV" tvg-logo="https://i.ibb.co.com/r2L1bmdK/Star.png",Star Jalsha HD
-http://87.255.35.150:18237
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xr7XKL3P/Star-Movies.jpg" group-title="AR TV",Star Jalsha Movies
-https://tvsen7.aynaott.com/sjhdbd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="AR TV",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gFhKPr18/Sony-AATH.png" group-title="AR TV",Sony Aath
-#https://allottplay.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
-https://bongoflix.top/rz/stream.php?id=86ccc06d72b98d2e40d91bebe766fe96&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pv6qrVdr/Zee-Bangla.png" group-title="AR TV",Zee Bangla
-https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFrmG9Wx/Discovery.jpg" group-title="AR TV", Discovery
 http://110.39.27.47:8001/play/a017/index.m3u8
