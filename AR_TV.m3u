@@ -128,6 +128,8 @@ http://stvlive.net:8080/sonyentten/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AR TV",Tsports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMQvf40R/Sony-Aath.webp" group-title="AR TV",Sony Aath
+http://103.60.204.26:3255/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR TV",Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
