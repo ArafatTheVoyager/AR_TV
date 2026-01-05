@@ -122,7 +122,8 @@ http://110.39.27.47:8001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wNBKFP6D/Sony-MAX-2.png" group-title="AR TV",Sony Max 2
 http://103.182.170.32:8888/play/a02l
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6PvZdrt/Sony-Set.png" group-title="AR TV",Sony Entertainment 
+http://stvlive.net:8080/sonyentten/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AR TV",Tsports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
