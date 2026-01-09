@@ -129,7 +129,7 @@ http://103.182.170.32:8888/play/a02l
 http://stvlive.net:8080/sonyentten/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AR TV",Tsports
-https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
+http://103.60.204.26:3255/Discovery/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMQvf40R/Sony-Aath.webp" group-title="AR TV",Sony Aath
 http://103.60.204.26:3255/SonyAath/index.m3u8
@@ -152,7 +152,7 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFrmG9Wx/Discovery.jpg" group-title="AR TV", Discovery
-http://110.39.27.47:8001/play/a017/index.m3u8
+http://103.60.204.26:3255/Discovery/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Psk4P3QC/images-q-tbn-ANd9-Gc-Tz-CTvr-Hosj-CL3n-Ea-Gl-VBSzz5by-Q4-JM1-Y-Ejv-Ev-MHJunclr-Jn4k-VPg4p-Uc-s-10.png" group-title="AR TV",FIFA +
