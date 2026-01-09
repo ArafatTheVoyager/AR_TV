@@ -56,6 +56,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7pGtkJb/bantul.jpg" group-title="AR TV",Batul The Great
 https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JgCJgXq/Masha-And-The-Bear.jpg" group-title="AR TV", Masha And The Bear
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767925305/ei/2RFgac3rL8_hkucPquTy4AM/ip/172.214.47.51/id/Ke6nrybb70w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/AYUSA3ADFqGaNg6lqROIKsqyx-fYvM03Otg_xa6bkcJt3WQC5r1OBJNid21-iGxCiR6OZw-vow/spc/wH4Qq779CXVYrVLxUGVE75w0_pDePi1Cow0f6YNg10RLqDe9kE_qSUBF4gOtqTtd_38/vprv/1/go/1/ns/bJe9DHYcIufoA5fEknUskygR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/aV2fDemiSwakWzIpljg/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKESPxWCB234sRk4IOo74mEjeQ91ixuKUWPdEAUdmvWACIB4uqms75sziU3-xH81ibg10V0uMzm1jqgtY-Uo_vzJo/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="AR TV",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
