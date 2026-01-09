@@ -137,6 +137,9 @@ http://103.60.204.26:3255/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zT1bwGYV/Colors-Bangla.png" group-title="AR TV",Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cK44c3sk/Star-Jalsha.webp" group-title="AR TV",Star Jalsha
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZRcs9bwh/Rajdhani-tv.jpg" group-title="AR TV",Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
