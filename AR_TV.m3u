@@ -170,3 +170,7 @@ http://178.33.239.54:8080/500/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4g7G76Zd/Ten-1-Hd.png" group-title="AR TV", Sony sports Ten 1
 https://mxonlive.wuaze.com/toffee/stream.php?play=true&id=TxyxtSzqVo04L96iQl&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f7gH0JB/Ten-2-HD.jpg" group-title="AR TV", Sony sports Ten 2
+https://mxonlive.wuaze.com/toffee/stream.php?play=true&id=FNgoGmWFtMgqr3g3QL&e=.m3u8
+
