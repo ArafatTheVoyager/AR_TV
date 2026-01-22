@@ -17,6 +17,12 @@ If you are the owner of any content displayed and believe its presence constitut
 
 
 
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282010%29%201080p/The%20Social%20Network%20%282010%29%201080p/a_AL_.jpg" group-title="AR Movie",The Social Network (2010)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282010%29%201080p/The%20Social%20Network%20%282010%29%201080p/The%20Social%20Network%20%282010%29%201080p%20BluRay%20x265%20HEVC%205.1%20MSubs-Tigole.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282014%29%201080p/The%20Theory%20of%20Everything%20%282014%29%201080p/a70_.jpg" group-title="AR Movie",The Theory Of Everything (2014)
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282014%29%201080p/The%20Theory%20of%20Everything%20%282014%29%201080p/The%20Theory%20of%20Everything%20%282014%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Tigole.mkv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BVHmKyVh/Byadh-2022-S01.webp" group-title="AR Movie",Byadh (2022) S01
 https://pixeldrain.dev/api/file/RVSPSmfo?download
 
