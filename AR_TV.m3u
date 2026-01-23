@@ -17,8 +17,17 @@ If you are the owner of any content displayed and believe its presence constitut
 
 
 
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/014.%20Inception%20%282010%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="AR Movie",Inception (2010)
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/014.%20Inception%20%282010%29%201080p%20%5BDual%20Audio%5D/Inception%20%282010%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/005.%2012%20Angry%20Men%20%281957%29%201080p/a11.jpg" group-title="AR Movie",12 Angry Men (1957)
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/005.%2012%20Angry%20Men%20%281957%29%201080p/12%20Angry%20Men%20%281957%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%201.0%20ESub-Silence.mkv
+
 #EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/002.%20The%20Godfather%20%281972%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="AR Movie",The Godfather Part I (1972)
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/002.%20The%20Godfather%20%281972%29%201080p%20%5BDual%20Audio%5D/The%20Godfather%20Part%20I%20%281972%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/004.%20The%20Godfather-Part%20II%20%281974%29%201080p%20%5BDual%20Audio%5D/a11.jpg" group-title="AR Movie",The Godfather Part II (1974)
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/004.%20The%20Godfather-Part%20II%20%281974%29%201080p%20%5BDual%20Audio%5D/The%20Godfather%20Part%20II%20%281974%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 #EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282010%29%201080p/The%20Social%20Network%20%282010%29%201080p/a_AL_.jpg" group-title="AR Movie",The Social Network (2010)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282010%29%201080p/The%20Social%20Network%20%282010%29%201080p/The%20Social%20Network%20%282010%29%201080p%20BluRay%20x265%20HEVC%205.1%20MSubs-Tigole.mkv
